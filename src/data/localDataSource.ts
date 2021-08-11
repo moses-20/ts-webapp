@@ -1,4 +1,4 @@
-import { AbstractDataSource } from "./abtractDataSource";
+import { AbstractDataSource } from "./abstractDataSource";
 import { Product } from "./entities";
 
 export class LocalDataSource extends AbstractDataSource {

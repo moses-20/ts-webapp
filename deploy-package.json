@@ -1,0 +1,10 @@
+{
+    "name": "ts-webapp",
+    "description": "minimal web application using typesrcipt",
+    "repository": "https://github.com/moses-20/ts-webapp",
+    "license": "MIT",
+    "devDependencies": {
+        "express": "4.17.1",
+        "json-server": "0.16.3"
+    }
+}
